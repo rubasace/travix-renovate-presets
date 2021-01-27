@@ -11,7 +11,7 @@
   "packageRules": [
     {
       "updateTypes": ["patch"],
-      "automerge": false
+      "automerge": true
     },
     {
       "datasources": ["docker"],
